@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/123CarlosDaniel/frontend-video-call-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/123CarlosDaniel/backend-video-call-app.git
